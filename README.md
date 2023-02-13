@@ -1,2 +1,2 @@
 Data_exploration
-In this repository are files from data exploration labs in College
+this repository have files from data exploration labs in College
